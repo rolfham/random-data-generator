@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Weavers>
+  <Costura>
+    <ExcludeAssemblies>
+      Microsoft.Crm.Sdk.Proxy
+      Microsoft.IdentityModel.Clients.ActiveDirectory
+      Microsoft.Xrm.Sdk.Workflow
+      Microsoft.Xrm.Sdk.Deployment
+      Microsoft.Xrm.Sdk
+      Microsoft.Xrm.Tooling.Connector
+      Newtonsoft.Json
+    </ExcludeAssemblies>
+  </Costura>
+</Weavers>
