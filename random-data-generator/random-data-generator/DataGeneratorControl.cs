@@ -17,7 +17,7 @@ using Label = System.Windows.Forms.Label;
 namespace random_data_generator
 {
 
-    public partial class DataGeneratorControl : PluginControlBase, IGitHubPlugin, IAboutPlugin, IStatusBarMessager
+    public partial class DataGeneratorControl : PluginControlBase, IGitHubPlugin, IAboutPlugin, IStatusBarMessenger
     {
 
         //These type codes are not yet supported by the tool. Attributes with these typecodes won't be listed. 

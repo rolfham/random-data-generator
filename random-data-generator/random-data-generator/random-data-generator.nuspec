@@ -14,6 +14,7 @@
     <tags>XrmToolBox, mock, test</tags>
 	    <dependencies>
       <dependency id="XrmToolBox" version="1.2018.6.25" />
+	  <dependency id="Futurez.XrmToolbox.Controls" />
     </dependencies>
 	
   </metadata>
