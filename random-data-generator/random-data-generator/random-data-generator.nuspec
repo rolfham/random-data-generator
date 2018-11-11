@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RHAM.XrmToolBox.RandomDataGenerator</id>
+    <version>1.2018.11.11</version>
+    <title>RandomDataGenerator</title>
+    <authors>Rolf Hammervik</authors>
+    <owners>Rolf Hammervik</owners>
+    <projectUrl>https://github.com/rolfham/random-data-generator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Need to mock some data? This tool allows you to generate entity records with randomized data.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>XrmToolBox, mock, test</tags>
+	    <dependencies>
+      <dependency id="XrmToolBox" version="1.2018.6.25" />
+    </dependencies>
+	
+  </metadata>
+  <files>
+  <file src="bin\Debug\Plugins\random-data-generator.dll" target="lib\net452\Plugins"/>
+  </files>
+</package>
