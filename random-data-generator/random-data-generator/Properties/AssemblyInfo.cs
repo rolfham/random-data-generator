@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("random-data-generator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Random Data Generator")]
+[assembly: AssemblyDescription("Need to mock some data? This tool allows you to generate entity records with randomized data.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("random-data-generator")]
+[assembly: AssemblyCompany("Rolf Hammervik")]
+[assembly: AssemblyProduct("Random Data Generator")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.2018.11.11")]
+[assembly: AssemblyFileVersion("1.2018.11.11")]
